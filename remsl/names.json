@@ -23,53 +23,108 @@
       "names": []
     },
     {
-      "category": "Rathupaswala Shooting",
+      "category": "Sri Lanka Uprising '22",
       "description": "",
       "names": [
         {
-          "id": "20130801-19",
-          "name": "K.A.D. Akila Dinesh",
-          "age": "17",
-          "incident": "",
-          "date": "2013-08-01",
-          "description": "",
+          "id": "20220419-13",
+          "name": "K.B. Chaminda Lakshan",
+          "age": "41",
+          "incident": "GoHomeRajapakshas protest at Rambukkana",
+          "date": "2022-04-19",
+          "description": "Killed by police gunfire during a protest at Rambukkana against Rajapaksha regime",
           "categories": [
-            "Rathupaswala Shooting",
-            "Students",
+            "Sri Lanka Protests",
+            "Police Brutality",
+            "Sri Lanka Uprising '22",
             "Rajapaksa Era"
           ]
         },
         {
-          "id": "20130801-20",
-          "name": "H.S. Ravishan Perera",
-          "age": "18",
+          "id": "-4846",
+          "name": "Sugath Chanaka",
+          "age": "",
           "incident": "",
-          "date": "2013-08-01",
+          "date": "",
           "description": "",
           "categories": [
-            "Rathupaswala Shooting",
-            "Students",
+            "Sri Lanka Protests",
+            "Sri Lanka Uprising '22",
+            "Sri Lanka Crisis '22",
             "Rajapaksa Era"
           ]
         },
         {
-          "id": "20130801-21",
-          "name": "Nilantha Pushpakumara",
-          "age": "29",
+          "id": "-4847",
+          "name": "Jaliya",
+          "age": "",
           "incident": "",
-          "date": "2013-08-01",
+          "date": "",
           "description": "",
           "categories": [
-            "Rathupaswala Shooting",
+            "Sri Lanka Protests",
+            "Sri Lanka Uprising '22",
+            "Sri Lanka Crisis '22",
+            "Rajapaksa Era"
+          ]
+        },
+        {
+          "id": "-4848",
+          "name": "Harsha",
+          "age": "",
+          "incident": "",
+          "date": "",
+          "description": "",
+          "categories": [
+            "Sri Lanka Protests",
+            "Sri Lanka Uprising '22",
+            "Sri Lanka Crisis '22",
+            "Rajapaksa Era"
+          ]
+        },
+        {
+          "id": "-4849",
+          "name": "Dinuka Prabath",
+          "age": "",
+          "incident": "",
+          "date": "",
+          "description": "",
+          "categories": [
+            "Sri Lanka Protests",
+            "Sri Lanka Uprising '22",
+            "Sri Lanka Crisis '22",
+            "Rajapaksa Era"
+          ]
+        },
+        {
+          "id": "-4850",
+          "name": "Rusara",
+          "age": "",
+          "incident": "",
+          "date": "",
+          "description": "",
+          "categories": [
+            "Sri Lanka Protests",
+            "Sri Lanka Uprising '22",
+            "Sri Lanka Crisis '22",
+            "Rajapaksa Era"
+          ]
+        },
+        {
+          "id": "-4851",
+          "name": "Nafaiz",
+          "age": "",
+          "incident": "",
+          "date": "",
+          "description": "",
+          "categories": [
+            "Sri Lanka Protests",
+            "Sri Lanka Uprising '22",
+            "Sri Lanka Crisis '22",
             "Rajapaksa Era"
           ]
         }
       ]
-    },
-    {
-      "category": "Meethotamulla landslide '17",
-      "description": "",
-      "names": []
     },
     {
       "category": "4/21 Easter Attack",
@@ -188,108 +243,53 @@
       ]
     },
     {
-      "category": "Sri Lanka Uprising '22",
+      "category": "Rathupaswala Shooting",
       "description": "",
       "names": [
         {
-          "id": "20220419-13",
-          "name": "K.B. Chaminda Lakshan",
-          "age": "41",
-          "incident": "GoHomeRajapakshas protest at Rambukkana",
-          "date": "2022-04-19",
-          "description": "Killed by police gunfire during a protest at Rambukkana against Rajapaksha regime",
+          "id": "20130801-19",
+          "name": "K.A.D. Akila Dinesh",
+          "age": "17",
+          "incident": "",
+          "date": "2013-08-01",
+          "description": "",
           "categories": [
-            "Sri Lanka Protests",
-            "Police Brutality",
-            "Sri Lanka Uprising '22",
+            "Rathupaswala Shooting",
+            "Students",
             "Rajapaksa Era"
           ]
         },
         {
-          "id": "-4846",
-          "name": "Sugath Chanaka",
-          "age": "",
+          "id": "20130801-20",
+          "name": "H.S. Ravishan Perera",
+          "age": "18",
           "incident": "",
-          "date": "",
+          "date": "2013-08-01",
           "description": "",
           "categories": [
-            "Sri Lanka Protests",
-            "Sri Lanka Uprising '22",
-            "Sri Lanka Crisis '22",
+            "Rathupaswala Shooting",
+            "Students",
             "Rajapaksa Era"
           ]
         },
         {
-          "id": "-4847",
-          "name": "Jaliya",
-          "age": "",
+          "id": "20130801-21",
+          "name": "Nilantha Pushpakumara",
+          "age": "29",
           "incident": "",
-          "date": "",
+          "date": "2013-08-01",
           "description": "",
           "categories": [
-            "Sri Lanka Protests",
-            "Sri Lanka Uprising '22",
-            "Sri Lanka Crisis '22",
-            "Rajapaksa Era"
-          ]
-        },
-        {
-          "id": "-4848",
-          "name": "Harsha",
-          "age": "",
-          "incident": "",
-          "date": "",
-          "description": "",
-          "categories": [
-            "Sri Lanka Protests",
-            "Sri Lanka Uprising '22",
-            "Sri Lanka Crisis '22",
-            "Rajapaksa Era"
-          ]
-        },
-        {
-          "id": "-4849",
-          "name": "Dinuka Prabath",
-          "age": "",
-          "incident": "",
-          "date": "",
-          "description": "",
-          "categories": [
-            "Sri Lanka Protests",
-            "Sri Lanka Uprising '22",
-            "Sri Lanka Crisis '22",
-            "Rajapaksa Era"
-          ]
-        },
-        {
-          "id": "-4850",
-          "name": "Rusara",
-          "age": "",
-          "incident": "",
-          "date": "",
-          "description": "",
-          "categories": [
-            "Sri Lanka Protests",
-            "Sri Lanka Uprising '22",
-            "Sri Lanka Crisis '22",
-            "Rajapaksa Era"
-          ]
-        },
-        {
-          "id": "-4851",
-          "name": "Nafaiz",
-          "age": "",
-          "incident": "",
-          "date": "",
-          "description": "",
-          "categories": [
-            "Sri Lanka Protests",
-            "Sri Lanka Uprising '22",
-            "Sri Lanka Crisis '22",
+            "Rathupaswala Shooting",
             "Rajapaksa Era"
           ]
         }
       ]
+    },
+    {
+      "category": "Meethotamulla landslide '17",
+      "description": "",
+      "names": []
     },
     {
       "category": "Thirty Years' War",
@@ -53890,5 +53890,5 @@
       ]
     }
   ],
-  "lastUpdated": "1662493701554"
+  "lastUpdated": "1662494207612"
 }
